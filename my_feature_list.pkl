@@ -1,0 +1,12 @@
+(lp0
+S'poi'
+p1
+aS'other'
+p2
+aS'from_messages'
+p3
+aS'from_this_person_to_poi'
+p4
+aS'to_messages'
+p5
+a.
